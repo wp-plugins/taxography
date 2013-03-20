@@ -19,27 +19,28 @@ When a list item link is clicked, all the posts in that taxonomy will display on
 appropriate category template dictated by the template hierarchy rules. This plugin is based on the WordPress 
 function <a href="http://codex.wordpress.org/Template_Tags/wp_list_categories">wp_list_categories()</a>
 
-<h3><strong>Key Features & options</strong></h3>
+<h3><strong>Key Features & Options</strong></h3>
 <ul>
+	<li>Beautiful backend interface</li>
 	<li>Description, show or hide the category item description.</li>
-	<li>Style, show as a list on inline.</li>
-	<li>Order, ascending or descending.</li>
+	<li>Display as a list or inline.</li>
+	<li>Order by ascending or descending.</li>
 	<li>Orderby count, id, slug or term group.</li>
-	<li>Depth, controls how many levels in the hierarchy of categories are to be included.</li>
-	<li>Number, sets the number of categories to display.</li>
-	<li>Thumbnail, show or hide the taxonomy item thumbnail.</li>
-	<li>Thumbnail Height & Width, for diplaying the categories image size.</li>
-	<li>Item Width, set the width of an list item in pixel.</li>
-	<li>Child Indent, a margin left in pixels for child item.</li>
-	<li>Include & Exclude, only include or exclude the selected categories.</li>
-	<li>Hierarchical, set in hierarchical.</li>
+	<li>Controls how many levels in the hierarchy of categories are to be included.</li>
+	<li>Sets the number of categories to display.</li>
+	<li>Show or hide the taxonomy item thumbnail.</li>
+	<li>Custom thumbnail height & width for diplaying the categories image.</li>
+	<li>Item width set the width of an list item in pixel.</li>
+	<li>Child indent a margin left in pixels for child item.</li>
+	<li>Include or exclude selected categories.</li>
+	<li>Set in hierarchical.</li>
 	<li>Use description, sets whether a category's description is inserted into the title attribute of the links created.</li>
 	<li>Show last update, set to order it for last update.</li>
-	<li>Show count, toggles the display of the current count of posts in each category.</li>
-	<li>Hide empty, toggles the display of categories with no posts.</li>
-	<li>Intro & Outro text for widget, if you want to add additional text or HTML.</li>
-	<li>Custom Style & Script for widget, if you want to add additional CSS style or javascript per given widget ID.</li>
-	<li>Inline Documentation for the shortcode.</li>
+	<li>Show count of the current count of posts in each category.</li>
+	<li>Hide empty categories with no posts.</li>
+	<li>Intro & outro text for widget, if you want to add additional text or HTML.</li>
+	<li>Custom style & script for widget, if you want to add additional CSS style or javascript eaach widget ID.</li>
+	<li>Inline documentation for each option.</li>
 </ul>
 
 
