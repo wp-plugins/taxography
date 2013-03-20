@@ -1,0 +1,10 @@
+.column-image {
+    width: 40px;
+}
+.optionImage {
+	display: block;
+	margin-bottom: 6px;
+}
+input[type="text"].taxonomy-image {
+	width: 50%;	
+}
