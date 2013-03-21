@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Taxography\n"
+"POT-Creation-Date: 2013-03-21 11:20+0700\n"
+"PO-Revision-Date: 2013-03-21 11:20+0700\n"
+"Last-Translator: zourbuth <zourbuth@gmail.com>\n"
+"Language-Team: Zourbuth <zourbuth@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wptheme\\wp-content\\plugins"
+"\\taxography\\\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\area51\\wp-content\\plugins"
+"\\taxography\n"
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-images.php:155
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-images.php:175
+msgid "Image"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-images.php:158
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-images.php:178
+msgid "Add Image"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-images.php:159
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-images.php:179
+msgid "Remove"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-images.php:161
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-images.php:182
+msgid ""
+"Please set the \"Link URL\" to \"File URL\" when selecting the image from "
+"uploader.</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-shortcode.php:49
+msgid "Can't find settings from the given ID"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-utility.php:87
+msgid "(no title)"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-walker.php:109
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-walker.php:125
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:343
+msgid "General"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:344
+msgid "Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:345
+msgid "Customs"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:346
+msgid "Premium"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:353
+msgid "Title"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:355
+msgid "The widget title, leave it empty for no title."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:358
+msgid "Taxonomy"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:359
+msgid "Select the taxonomy as given below."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:367
+msgid "Ordering"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:368
+msgid "Sort categories with ascending or descending ordering."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:382
+msgid "Depth"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:383
+msgid "How many levels in the hierarchy of categories included."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:387
+msgid "Number"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:388
+msgid "Sets the number of categories to display."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:392
+msgid "Include"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:401
+msgid "Exclude"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:415
+msgid "Style"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:416
+msgid "With HTML list or none. Some theme generate styles differently."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:424
+msgid "Thumbnail Height & Width"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:425
+msgid "The categories image height and width size in pixels units."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:431
+msgid "Show thumbnail?"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:435
+msgid "Show child thumbnail?"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:439
+msgid "Show title"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:443
+msgid "Use description for title?"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:447
+msgid "Show description?"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:451
+msgid "Hierarchical?"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:456
+msgid "Show last update?"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:460
+msgid "Show count?"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:464
+msgid "Hide empty?"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:472
+msgid "Intro Text"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:473
+msgid ""
+"This option will display addtional text before the widget content and "
+"supports HTML."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:477
+msgid "Outro Text"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:478
+msgid "This option will display addtional text after widget and supports HTML."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:482
+msgid "Custom Script & Stylesheet"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:483
+msgid ""
+"Use this box for custom widget CSS style of javascript. <br />Current widget "
+"selector: "
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:493
+msgid "Upgrade To Premium Version"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:495
+msgid ""
+"This premium version gives more abilities, features, advanced options and "
+"premium supports for displaying taxonomies \n"
+"\t\t\t\t\t\t\t\t\t\tin a better way. You will get help soon if you have "
+"problems with the premium version. Full documentation will let \n"
+"\t\t\t\t\t\t\t\t\t\tyou customize this premium version easily. <br />\n"
+"\t\t\t\t\t\t\t\t\t\tSee the full <a href=\"http://zourbuth.com/plugins/"
+"taxography/\"><strong>Live Preview</strong></a>.\n"
+"\t\t\t\t\t\t\t\t\t\t<br /><br />\n"
+"\t\t\t\t\t\t\t\t\t\tPremium features:"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:507
+msgid "Premium Supports"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:508
+msgid "A premium supports, helps and documentation."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:511
+msgid "All Taxonomies"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:512
+msgid ""
+"Not only supports category, but all your registered taxonomies and post tag, "
+"eq. posts from portfolio, testimonial, product etc."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:515
+msgid "Quick Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:516
+msgid ""
+"\n"
+"\t\t\t\t\t\t\t\t\t\t- Add image with quick form<br />\n"
+"\t\t\t\t\t\t\t\t\t\t- Change or delete image with quick edit<br />\n"
+"\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:522
+msgid "Display Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:523
+msgid "Display selected category posts via Ajax."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:526
+msgid "Advanced Thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:527
+msgid ""
+"\n"
+"\t\t\t\t\t\t\t\t\t\t- Child thumbnail<br />\n"
+"\t\t\t\t\t\t\t\t\t\t- Default thumbnail for no image.\n"
+"\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:533
+msgid "Shortcode"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:534
+msgid "Shortcode to display widget in your content."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:537
+msgid "And more"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\taxography/taxography-widget.php:538
+msgid ""
+"\n"
+"\t\t\t\t\t\t\t\t\t\t- Cut long category description<br />\n"
+"\t\t\t\t\t\t\t\t\t\t- Grid display, multicolumn category<br />\n"
+"\t\t\t\t\t\t\t\t\t\t- Widget Background and Title Icon<br />\n"
+"\t\t\t\t\t\t\t\t\t\t- Exclude category-tree from the results.<br />\n"
+"\t\t\t\t\t\t\t\t\t\t- Display only categories children of the selected "
+"category.<br />\n"
+"\t\t\t\t\t\t\t\t\t\t- Display from searched categories<br />\n"
+"\t\t\t\t\t\t\t\t\t\t- Category feed link and image<br />\n"
+"\t\t\t\t\t\t\t\t\t\t- PHP function for using in template\n"
+"\t\t\t\t\t\t\t\t\t"
+msgstr ""

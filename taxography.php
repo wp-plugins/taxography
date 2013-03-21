@@ -3,7 +3,7 @@
 	Plugin Name: Taxography - Graphical Taxonomy
 	Plugin URI: http://zourbuth.com/?p=871
 	Description:  An advance widget that gives you total control over the output of your taxonomy. Support multiwidget and taxonomy images.
-	Version: 0.0.1
+	Version: 0.0.2
 	Author: zourbuth
 	Author URI: http://zourbuth.com
 	License: Under GPL2
@@ -26,18 +26,18 @@
 
 
 /* Initializes the plugin and it's features
- * @since 1.0
+ * @since 0.0.1
  **/
 add_action( 'plugins_loaded', 'taxography_plugins_loaded' );
 
 
 /* Initializes the plugin and it's features
- * @since 1.0
+ * @since 0.0.1
  **/
 function taxography_plugins_loaded() {
 
 	// Define constant
-	define( 'TAXOGRAPHY_VERSION', '0.0.1' );
+	define( 'TAXOGRAPHY_VERSION', '0.0.2' );
 	define( 'TAXOGRAPHY_DIR', plugin_dir_path( __FILE__ ) );
 	define( 'TAXOGRAPHY_URL', plugin_dir_url( __FILE__ ) );
 	
@@ -46,6 +46,8 @@ function taxography_plugins_loaded() {
 	require_once( TAXOGRAPHY_DIR . 'taxography-walker.php' );	
 	require_once( TAXOGRAPHY_DIR . 'taxography-shortcode.php' );
 	
+	load_plugin_textdomain( 'taxography', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+	
 	// Loads and registers the new widgets
 	add_action( 'widgets_init', 'taxography_load_widgets' );
 }
@@ -53,7 +55,7 @@ function taxography_plugins_loaded() {
 
 /* Register the extra widgets. 
  * Each widget is meant to replace or extend the current default
- * @since 1.0
+ * @since 0.0.1
  **/
 function taxography_load_widgets() {
 	require_once( TAXOGRAPHY_DIR . 'taxography-widget.php' );

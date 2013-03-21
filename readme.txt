@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: category, category-image, categories, category-image, taxonomy, widget, sidebar
 Requires at least: 3.0
 Tested up to: 3.5
-Stable tag: 0.0.1
+Stable tag: 0.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -72,6 +72,9 @@ http://zourbuth.com/?p=871
 3. This is screenshot of category uploading image
 
 == Changelog ==
+
+= 0.0.2 =
+* po file added for translation
 
 = 0.0.1 =
 * Initial release
