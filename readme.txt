@@ -1,7 +1,7 @@
 === Taxography - Category Image ===
 Contributors: zourbuth
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W6D3WAJTVKAFC
-Tags: category, category-image, categories, category-image, taxonomy, widget, sidebar
+Tags: category, category image, categories, categories image, taxonomy image, taxonomies image, widget, sidebar, categories icons, category icon, categories logo, category logo, image, images, edit tags, taxonomy category, edit category, wp-admin, image uploader, upload image
 Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 0.0.2
