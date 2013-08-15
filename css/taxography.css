@@ -1,0 +1,104 @@
+ul.taxography:after,
+ul.taxography ul:after,
+ul.taxography li:after {
+    clear: both;
+}
+ul.taxography:before,
+ul.taxography:after,
+ul.taxography ul:after,
+ul.taxography li:after,
+ul.taxography li:after {
+    content: "";
+    display: table;
+    line-height: 0;
+}
+ul.taxography, ul.taxography-children, 
+ul.taxography ul.children {
+	list-style: none !important;
+	margin: 0 !important;
+}
+ul.taxography > li {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+a.taxography-title {
+    font-weight: bold;
+}
+ul.taxography-children {
+	margin-top: 5px;
+}
+img.taxography-image {
+    float: left;
+    margin: 4px 10px 0 0;
+	max-width: 100%;
+}
+span.taxography-description {
+	min-width: 12px;
+	clear: both;
+}
+.taxo-count {
+    float: right;
+    font-size: 11px;
+}
+.taxography ul.taxography-children > li,
+.taxography ul.taxography-posts > li {
+	margin: 0;
+	padding:0;
+	border: none;
+}
+.taxography-loading {
+    background: url(../images/loading.gif) no-repeat scroll left center transparent;
+	margin-left: 15px;
+	padding-left: 20px;
+}
+.taxography .taxography-posts-header {    
+    display: block;
+    font-weight: bold;
+    margin-top: 6px;    
+}
+a.taxography-load-posts {    
+    display: inline-block;
+    margin-bottom: 7px;
+}
+ul.taxography-posts {
+	padding: 0 ;
+	list-style: none;
+	margin: 0;
+}
+
+
+/* Shortcode *****/
+ul.taxography-shortcode {
+	margin-bottom: 18px;
+}
+ul.taxography-shortcode > li {
+    display: inline-block;
+}
+ul.taxography-shortcode li.col2 {
+    width: 48.9362%;
+}
+ul.taxography-shortcode li.col3 {
+    width: 31.9149%;
+}
+ul.taxography-shortcode li.col4 {
+    width: 23.4043%;
+}
+ul.taxography-shortcode li.col2,
+ul.taxography-shortcode li.col3,
+ul.taxography-shortcode li.col4 {
+	margin-left: 2.127659574%;
+	*margin-left: 2.0744680846382977%;
+	display: block;
+	float: left;
+}
+ul.taxography-shortcode li.col0 {
+    margin-left: 0;
+}
+ul.taxography-shortcode li.clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
