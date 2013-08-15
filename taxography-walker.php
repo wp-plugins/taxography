@@ -30,7 +30,7 @@ class Taxography_Walker extends Walker_Category {
 	 * @param int $depth Depth of category. Used for tab indentation.
 	 * @param array $args Will only append content if style argument value is 'list'.
 	 */
-	function start_lvl(&$output, $depth, $args) {
+	function start_lvl(&$output, $depth = 0, $args = array()) {
 		if ( 'list' != $args['style'] )
 			return;
 
@@ -46,7 +46,7 @@ class Taxography_Walker extends Walker_Category {
 	 * @param int $depth Depth of category. Used for tab indentation.
 	 * @param array $args Will only append content if style argument value is 'list'.
 	 */
-	function end_lvl(&$output, $depth, $args) {
+	function end_lvl(&$output, $depth = 0, $args = array()) {
 		if ( 'list' != $args['style'] )
 			return;
 
@@ -63,7 +63,7 @@ class Taxography_Walker extends Walker_Category {
 	 * @param int $depth Depth of category in reference to parents.
 	 * @param array $args
 	 */
-	function start_el(&$output, $category, $cdepth, $args) {
+	function start_el(&$output, $category, $cdepth = 0, $args = array(), $current_object_id = 0) {
 		global $tax_count;
 		
 		if( ! $tax_count )
@@ -235,7 +235,7 @@ class Taxography_Walker extends Walker_Category {
 	 * @param int $depth Depth of category. Not used.
 	 * @param array $args Only uses 'list' for whether should append to output.
 	 */
-	function end_el(&$output, $page, $depth, $args) {
+	function end_el(&$output, $object, $depth = 0, $args = array()) {
 		if ( 'list' != $args['style'] )
 			return;
 

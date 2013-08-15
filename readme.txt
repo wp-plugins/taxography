@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: category, category image, categories, categories image, taxonomy image, taxonomies image, widget, sidebar, categories icons, category icon, categories logo, category logo, image, images, edit tags, taxonomy category, edit category, wp-admin, image uploader, upload image
 Requires at least: 3.0
 Tested up to: 3.5
-Stable tag: 0.0.2
+Stable tag: 0.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -72,6 +72,11 @@ http://zourbuth.com/?p=871
 3. This is screenshot of category uploading image
 
 == Changelog ==
+
+= 0.0.3 =
+* WP 3.6 taxonomy walker fixed
+* No load link for post style added ( remove the 'Load Post' if set to none )
+* List style CSS fixed
 
 = 0.0.2 =
 * po file added for translation

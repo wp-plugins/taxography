@@ -3,7 +3,7 @@
 	Plugin Name: Taxography - Graphical Taxonomy
 	Plugin URI: http://zourbuth.com/?p=871
 	Description:  An advance widget that gives you total control over the output of your taxonomy. Support multiwidget and taxonomy images.
-	Version: 0.0.2
+	Version: 0.0.3
 	Author: zourbuth
 	Author URI: http://zourbuth.com
 	License: Under GPL2
@@ -37,7 +37,7 @@ add_action( 'plugins_loaded', 'taxography_plugins_loaded' );
 function taxography_plugins_loaded() {
 
 	// Define constant
-	define( 'TAXOGRAPHY_VERSION', '0.0.2' );
+	define( 'TAXOGRAPHY_VERSION', '0.0.3' );
 	define( 'TAXOGRAPHY_DIR', plugin_dir_path( __FILE__ ) );
 	define( 'TAXOGRAPHY_URL', plugin_dir_url( __FILE__ ) );
 	
